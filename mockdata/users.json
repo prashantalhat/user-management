@@ -1,0 +1,15 @@
+[{
+    "FirstName" : "user1",
+    "LastName" : "user1",
+    "Email" : "user1@mailinator.com"
+},
+{
+    "FirstName" : "user2",
+    "LastName" : "user2",
+    "Email" : "user2@mailinator.com"
+},
+{
+    "FirstName" : "user3",
+    "LastName" : "user3",
+    "Email" : "user3@mailinator.com"
+}]
